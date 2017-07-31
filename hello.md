@@ -6,3 +6,5 @@ you are my destiny.
 Haha.Where is my crlf?
 
 Git is free software.
+
+Yes，you are a little bit poor.
